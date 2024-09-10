@@ -22,13 +22,29 @@ apresentar os dados
 o que é variavel? é uma caixinha onde guardamos informacoes pra serem usadas mais tarde
 let: pode mudar a variavel depois
 const: nao pode mudar a variavel
-variaveis globais e locais: global: tudo o que é escrito fora das chaves {} e local é tudo que é escrito dentro das chaves {}
-constantes
+[x] variaveis globais e locais: global: tudo o que é escrito fora das chaves {} e local é tudo que é escrito dentro das chaves {}
+[x] constantes
 
 ## tipos de dados
-strings (textos): "" '' 
-number: 2, 1.4
-Function
+[x] strings (textos): "" '' 
+[x] number: 2, 1.4
+[x] boolean: true, false
 
 ## operados
-operadores de atribuicao de valor: =
+[x] operador de atribuicao de valor: =
+[x] operador de concatenacao: +
+
+## estrutura de dados
+
+## arrays
+[x] uma lista que contem qualquer tipo de dado
+
+## objetos
+[x] atributos e metodos
+[x] criacao e manipulacao de objetos
+[x] acesso a propriedades de objetos
+
+## functions
+[x] criar, passar argumento
+[x] executar
+[x] arrow function/ named function
