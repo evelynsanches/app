@@ -17,3 +17,18 @@ Sequencia de passos logica e finita para resolucao de um problema.
 Coletar os dados
 processar os dados(manipular, alterar)
 apresentar os dados
+
+## escopo e variaveis
+o que é variavel? é uma caixinha onde guardamos informacoes pra serem usadas mais tarde
+let: pode mudar a variavel depois
+const: nao pode mudar a variavel
+variaveis globais e locais: global: tudo o que é escrito fora das chaves {} e local é tudo que é escrito dentro das chaves {}
+constantes
+
+## tipos de dados
+strings (textos): "" '' 
+number: 2, 1.4
+Function
+
+## operados
+operadores de atribuicao de valor: =
