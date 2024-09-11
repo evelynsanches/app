@@ -67,3 +67,4 @@ const: nao pode mudar a variavel
 - Assincrona, é porque nao esta sendo executado linha a linha, parou na promessa e vai esperar algum tempo ate o usuario enviar.
 - Sempre que for usar uma funcao assincrona, na hora que for chamar ela, por "await" antes.
 
+- [...metas] - quando quer fazer uma copia de um array. o ... pega tudo o que esta dentro do array "metas" e joga nesse novo array.
