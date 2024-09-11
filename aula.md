@@ -30,9 +30,10 @@ const: nao pode mudar a variavel
 [x] number: 2, 1.4
 [x] boolean: true, false
 
-## operados
+## operadores
 [x] operador de atribuicao de valor: =
 [x] operador de concatenacao: +
+[x] operadores de comparacao: ==, !=, <, >, <=, >=
 
 ## estrutura de dados
 
@@ -54,11 +55,15 @@ const: nao pode mudar a variavel
 
 ## condicionais
 [x] switch
+[x] if/else
 
 ## modulos em node.js
 [x] importacao de modulos (require, CommonJS)
 [x] biblioteca 'inquirer' para criar prompts
 
 ## programacao assincrona e promises
-[x] uso de funcoes assincronas (assync/await) - sempre que temos um await, significa que vamos ter uma promisse da funcao. Esta esperando uma resposta. Aguarda que eu prometo que to levando isso pro usuario, e quando ele responder, vc vai receber .
-Assincrona, é porque nao esta sendo executado linha a linha, parou na promessa e vai esperar algum tempo ate o usuario enviar.
+[x] uso de funcoes assincronas (assync/await) 
+- sempre que temos um await, significa que vamos ter uma promisse da funcao. Esta esperando uma resposta. Aguarda que eu prometo que to levando isso pro usuario, e quando ele responder, vc vai receber .
+- Assincrona, é porque nao esta sendo executado linha a linha, parou na promessa e vai esperar algum tempo ate o usuario enviar.
+- Sempre que for usar uma funcao assincrona, na hora que for chamar ela, por "await" antes.
+
