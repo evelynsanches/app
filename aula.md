@@ -48,3 +48,6 @@ const: nao pode mudar a variavel
 [x] criar, passar argumento
 [x] executar
 [x] arrow function/ named function
+
+## estrutura de repeticao
+[x] while

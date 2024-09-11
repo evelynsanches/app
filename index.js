@@ -11,27 +11,38 @@
 // console.log(metas[0])
 
 //objeto
-let meta = {
-    value: 'let um livro todo mes',
-    checked: false,
-    log: (info) => {
-        console.log(info)
-    }
-}
+// let meta = {
+//     value: 'let um livro todo mes',
+//     checked: false,
+//     log: (info) => {
+//         console.log(info)
+//     }
+// }
 // meta.value = "nao é mais ler um livro"
 // meta.log(meta.value)
 
-let metas = [
-    meta,
-    {
-        value: "caminhar 20 minutos todos os dias",
-        checked: false
-    }
-]
+// let metas = [
+//     meta,
+//     {
+//         value: "caminhar 20 minutos todos os dias",
+//         checked: false
+//     }
+// ]
 
-console.log(metas[1].value)
+// console.log(metas[1].value)
 
 //function - arrow function
 // const criarMeta = () => {}
 
 // function criarMeta() {}
+
+
+// aula 2
+const start = () => {
+    let count = 0
+    while(count <= 10){
+        console.log(count)
+        count++
+    }
+}
+start()
