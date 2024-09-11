@@ -51,3 +51,6 @@ const: nao pode mudar a variavel
 
 ## estrutura de repeticao
 [x] while
+
+## condicionais
+[x] switch
