@@ -64,6 +64,12 @@ const: nao pode mudar a variavel
 ## modulos em node.js
 [x] importacao de modulos (require, CommonJS)
 [x] biblioteca 'inquirer' para criar prompts
+[x] FS (file system) - modulo nativo
+
+## JSON
+[x] Javascript object notation (.json)
+[x] JSON.parse() - transforma de json para js
+[x] JSON.stringify() - transforma de js para json
 
 ## programacao assincrona e promises
 [x] uso de funcoes assincronas (assync/await) 
