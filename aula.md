@@ -40,7 +40,7 @@ const: nao pode mudar a variavel
 
 ## arrays
 [x] uma lista que contem qualquer tipo de dado
-[x] metodos de array (toda funcao que esta dentro de um objeto) push, [find, forEach, filter] (HFO: Higher Order Functions) 
+[x] metodos de array (toda funcao que esta dentro de um objeto) push, [find, forEach, filter, map] (HFO: Higher Order Functions) 
 - no javascript todo array é um objeto
 - toda HFO vai rodar uma funcao dentro
 
